@@ -1,8 +1,8 @@
 {
-    "name": "shiveh/log-usage",
+    "name": "armin/log-usage",
     "description": "log usage service",
     "keywords": [
-        "shiveh",
+        "armin",
         "log-usage"
     ],
     "homepage": "https://github.com/arminnasiri/log-usage",
