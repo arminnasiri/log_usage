@@ -17,8 +17,8 @@
     ],
     "require": {
         "php": "^7.1",
-        "nmred/kafka-php": "0.2.*",
-        "psr/log": "1.0.2"
+        "nmred/kafka-php": "dev-v0.3.0-dev",
+        "ext-json": "*"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0",
